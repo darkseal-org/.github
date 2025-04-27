@@ -21,7 +21,7 @@ Our projects leverage modern technologies including:
 Visit our project repositories for specific installation instructions and documentation:
 
 - [LOL-Skins](https://github.com/darkseal-org/lol-skins) - Our free, open-source skin database
-- Exalted - Available through donation on [Ko-Fi](https://ko-fi.com/darksealorg)
+- Exalted - Available through donation on [Donate](https://github.com/darkseal-org/donate)
 - [Project Documentation](https://discord.gg/ritoskin) - Join our Discord for comprehensive guides
 
 ## Contact
@@ -37,4 +37,5 @@ Join our [Discord community](https://discord.gg/ritoskin) for the latest updates
 
 Our projects are not endorsed by Riot Games and do not represent the views or opinions of Riot Games or any of its affiliates. Riot Games and all related properties are trademarks or registered trademarks of Riot Games, Inc.
 
-The use of custom skin tools may violate Riot Games' Terms of Service. Users should proceed with caution and at their own discretion.
+The use of custom skin tools may violate Riot Games' Terms of Service. Using any third-party software that modifies game content can potentially violate Riot Games' terms of service, leading to possible account sanctions or bans.
+Users should proceed with caution and at their own discretion.
