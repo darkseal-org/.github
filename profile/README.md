@@ -1,6 +1,6 @@
 # Dark Seal
 
-Dark Seal is a software engineering andresearch organization focused on creating high-quality, user-focused tools. We specialize in developing solutions that enhance accessibility in gaming and software management, with a particular focus on League of Legends ecosystem.
+Dark Seal is a software engineering and research organization focused on creating high-quality, user-focused tools. We specialize in developing solutions that enhance accessibility in gaming and software management, with a particular focus on League of Legends ecosystem.
 
 ## Our Philosophy
 
