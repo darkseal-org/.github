@@ -1,6 +1,6 @@
 # Dark Seal
 
-Dark Seal is a software engineering and exploit research organization focused on creating high-quality, user-focused tools. We specialize in developing solutions that enhance accessibility in gaming and software management, with a particular focus on League of Legends ecosystem.
+Dark Seal is a software engineering andresearch organization focused on creating high-quality, user-focused tools. We specialize in developing solutions that enhance accessibility in gaming and software management, with a particular focus on League of Legends ecosystem.
 
 ## Our Philosophy
 
@@ -37,5 +37,3 @@ Join our [Discord community](https://discord.gg/ritoskin) for the latest updates
 
 Our projects are not endorsed by Riot Games and do not represent the views or opinions of Riot Games or any of its affiliates. Riot Games and all related properties are trademarks or registered trademarks of Riot Games, Inc.
 
-The use of custom skin tools may violate Riot Games' Terms of Service. Using any third-party software that modifies game content can potentially violate Riot Games' terms of service, leading to possible account sanctions or bans.
-Users should proceed with caution and at their own discretion.
