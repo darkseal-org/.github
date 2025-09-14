@@ -14,6 +14,7 @@ Our projects leverage modern technologies including:
 - Electron
 - Python
 - C++ & C#
+- Rust & Tauri
 - React
 
 ## Getting Started
